@@ -3,6 +3,11 @@ Mono E Ink Monitor Setup
 
 A lot of what follows regards configuring a computer to use a monochrome monitor for software development.
 
+## Table of Contents
+1. [Onyx Boox Mira monitor settings](#onyx-boox-mira-monitor-settings)
+2. [Visual Studio](#visual-studio)
+3. [Misc. Utilities](#misc-utilities)
+   
 
 ## [Onyx Boox Mira](https://onyxboox.com/boox_mira) monitor settings
 
