@@ -7,6 +7,7 @@ A lot of what follows regards configuring a computer to use a monochrome monitor
 1. [Onyx Boox Mira monitor settings](#onyx-boox-mira-monitor-settings)
 2. [Visual Studio](#visual-studio)
 3. [Misc. Utilities](#misc-utilities)
+4. [Onyx Boox Mira and UV light](#onyx-boox-mira-and-uv-light)
    
 
 ## [Onyx Boox Mira](https://onyxboox.com/boox_mira) monitor settings
@@ -53,3 +54,12 @@ Onyx's Mira Windows app allows a keyboard shortcut to be specified for refreshin
   <br>The color scheme includes support for [displaying diffs](https://github.com/shaneharper/vim-mono_eink_color_scheme#tips). (Many common color schemes use red for deleted lines and green for added lines which doesn't help on a monochrome display.)
 
 * [ls command setup](https://github.com/shaneharper/dotfiles/blob/master/dircolors).
+
+
+## Onyx Boox Mira and UV light
+
+My display developed a yellow tinge around the edge of the display after about half a year. I suspect it is due to UV light exposure. (Here is a [report of a yellow tinge developing with an Onyx Boox tablet](https://www.reddit.com/r/Onyx_Boox/comments/wv3gpk/yellow_tint_around_screen_border/).) The yellow tinge around the edges of my display is usually hidden by turning on the warm frontlight.
+
+I have used the display near a window where it'd receive light from the sun. Most glass filters out UVB but not UVA.
+UVA can damage skin and eyes (and may have led to discoloring of the edge of my display).
+The claim that "you can't get sunburnt when behind glass" might be true (UVB causes reddening of the skin), but it doesn't make it safe if UVA is not filtered out - UVA penetrates further into the skin than UVB and it can cause skin cancer. Best is probably to keep the display and yourself away from UV light.
